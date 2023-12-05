@@ -19,6 +19,6 @@ you can change -b parameter based on your GPU memory.
 
 If you use this code in your research, please use the following entry.
 
-```
+
 Wang, Sihan, Dazhi Wang, Deshan Kong, Wenhui Li, Jiaxing Wang, and Huanjie Wang. "Few‐shot multiscene fault diagnosis of rolling bearing under compound variable working conditions." IET Control Theory & Applications 16, no. 14 (2022): 1405-1416.
-```
+
