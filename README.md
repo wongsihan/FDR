@@ -20,5 +20,15 @@ you can change -b parameter based on your GPU memory.
 If you use this code in your research, please use the following entry for citation.
 
 
-Wang, Sihan, Dazhi Wang, Deshan Kong, Wenhui Li, Jiaxing Wang, and Huanjie Wang. "Few‐shot multiscene fault diagnosis of rolling bearing under compound variable working conditions." IET Control Theory & Applications 16, no. 14 (2022): 1405-1416.
+@article{wang2022few,
+  title={Few-shot multiscene fault diagnosis of rolling bearing under compound variable working conditions},
+  author={Wang, Sihan and Wang, Dazhi and Kong, Deshan and Li, Wenhui and Wang, Jiaxing and Wang, Huanjie},
+  journal={IET Control Theory \& Applications},
+  volume={16},
+  number={14},
+  pages={1405--1416},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+
 
