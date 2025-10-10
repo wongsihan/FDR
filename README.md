@@ -2,6 +2,8 @@
 
 Official PyTorch implementation for the paper: **"Few-shot multiscene fault diagnosis of rolling bearing under compound variable working conditions"**
 
+The project has been restructured using a large model. If there are any issues with the code, please contact me.
+
 ## 📖 Paper
 
 [Few-shot multiscene fault diagnosis of rolling bearing under compound variable working conditions](https://ietresearch.onlinelibrary.wiley.com/share/GY5UQBH9GAJKI3P2UAEG?target=10.1049/cth2.12315)
